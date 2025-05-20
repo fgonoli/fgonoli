@@ -11,4 +11,5 @@ Driven by challenging problems, I continuously seek to improve my skills through
 
 ![fgonoli GitHub stats](https://github-readme-stats.vercel.app/api?username=fgonoli&show_icons=true&theme=synthwave)
 
-## TECHNOLOGIES
+## CYBERSEC CERTIFICATIONS
+### STUDYING FOR
