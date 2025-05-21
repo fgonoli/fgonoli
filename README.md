@@ -8,6 +8,7 @@ Driven by challenging problems, I continuously seek to improve my skills through
 ### Contact
 <a href = "mailto:felipegonoli@proton.me"><img src="https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"><a>
 
+![fgonoli GitHub stats](https://github-readme-stats.vercel.app/api?username=fgonoli&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fgonoli&layout=compact)
 
 ## CERTIFICATIONS
 ### Studying for
@@ -34,7 +35,3 @@ Driven by challenging problems, I continuously seek to improve my skills through
 ![Ngrok](https://img.shields.io/badge/ngrok-140648?style=for-the-badge&logo=Ngrok&logoColor=white)
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fgonoli&hide_progress=true)
-
-![fgonoli GitHub stats](https://github-readme-stats.vercel.app/api?username=fgonoli&show_icons=true&theme=synthwave)
