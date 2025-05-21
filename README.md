@@ -6,7 +6,7 @@ Information Security undergraduate with a strong interest in various fields, inc
 Driven by challenging problems, I continuously seek to improve my skills through CTF platforms like Hack The Box and TryHackMe, along with bootcamps and certifications I plan to complete in the Cybersecurity field to grow and evolve as a professional.
 
 ### Contact
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipegonoli/)
+<a href = "mailto:felipegonoli@proton.me"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
 ## CERTIFICATIONS
